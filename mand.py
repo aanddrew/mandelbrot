@@ -3,11 +3,14 @@ import math
 
 pygame.init()
 
+#increase this value to increase zoom
 pixelsPerUnit = 100000
+
 #defines the scale for the graph to be drawn at
 #this number translates into how many 'x' units for each pixel on the screen
 scale = 1.0/pixelsPerUnit
 
+#change these values to change where to zoom in on.
 dispCenter = (-0.761574,-0.0847596)
 
 display_width = 800
