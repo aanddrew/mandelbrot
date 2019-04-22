@@ -11,6 +11,8 @@ I have attached some pictures from my exploration of this beautiful thing.
 
 I would highly recommend others to explore it for themselves. It's super fun.
 
+Visualizations made with python using pygame.
+
 ![Screenshot](pics/full_set_color.png)
 ![Screenshot](pics/full_set_gray.png)
 ![Screenshot](pics/zoom_1.png)
